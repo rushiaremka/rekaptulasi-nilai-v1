@@ -1,3 +1,6 @@
+Nama  : Rizal Amri Rozaqi
+NIM  : 23.01.4955
+
 # Website Rekapitulasi Nilai Mahasiswa
 
 Website ini adalah aplikasi berbasis web yang digunakan untuk merekapitulasi nilai mahasiswa di sebuah institusi pendidikan. Aplikasi ini dibangun menggunakan PHP dan MySQL. Fitur utama mencakup kemampuan untuk menambah data mahasiswa, memperbarui nilai oleh dosen, dan memungkinkan mahasiswa untuk melihat data nilai mereka.
